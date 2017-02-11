@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath ../lib/jxbrowser-5.4.3.jar;../lib/jxbrowser-win-5.4.3.jar;jxbrowserdemo.jar com.teamdev.jxbrowser.chromium.demo.JxBrowserDemo
